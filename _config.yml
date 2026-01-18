@@ -23,10 +23,10 @@ repository               : "jessie-lj/jessie-lj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/zhaopian.png"
   name             : "Jiaojiao Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D student"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
