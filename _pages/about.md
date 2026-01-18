@@ -16,6 +16,8 @@ Real-world evidence and causal inference
 
 Education
 ------
-2025/09 - new, Ph.D., Sciences in clinical research, Peking University, Beijing, China, advisor Prof. Liyuan Tao
+2025/09 - now, Ph.D., Sciences in clinical research, Peking University, Beijing, China, advisor Prof. Liyuan Tao
+
 2022/09 - 2025/07, M.M., Sciences in clinical research, Peking University, Beijing, China
+
 2016/09 - 2021/06, B.M., Public Health, Huazhong University of Science and Technology, Wuhan, Hubei
