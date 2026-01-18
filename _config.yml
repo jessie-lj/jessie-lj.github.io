@@ -23,14 +23,14 @@ repository               : "jessie-lj/jessie-lj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/zhaopian.png"
-  name             : "Jiaojiao Liao"
+  avatar           : "../images/zhaopian.png"
+  name             : "Jiaojiao Liao (廖姣姣)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Peking University"
+  location         : "Beijing, China"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lelia_lj@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/jessie-lj"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
