@@ -6,8 +6,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-03-01
 venue: 'Journal 1'
-slidesurl:'https://pubmed.ncbi.nlm.nih.gov/36992875/'
+slidesurl: 'https://pubmed.ncbi.nlm.nih.gov/36992875/'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/36992875/'
+bibtexurl: 'https://pubmed.ncbi.nlm.nih.gov/36992875/'
 citation: 'Fu Yicheng, Pei Minyue, Liao Jiaojiao, Li Nan, Zhang Fuchun, Liu Huilin. Prevalence and correlates of elder neglect in the community-dwelling Chinese population: New evidence from the CLHLS study. Front Public Health.'
 ---
 
