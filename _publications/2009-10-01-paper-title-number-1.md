@@ -1,7 +1,7 @@
 ---
 title: "Effect of shenfu injection in patients with septic shock: A systemic review and meta-analysis for randomized clinical trials"
 collection: Journal of Ethnopharmacology
-category: manuscripts
+category: meta-analysis
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-11-19
