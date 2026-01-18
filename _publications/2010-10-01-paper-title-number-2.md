@@ -6,7 +6,9 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-07-21
 venue: 'Journal 1'
+slidesurl: 'https://pubmed.ncbi.nlm.nih.gov/37516089/'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37516089/'
+bibtexurl: 'https://pubmed.ncbi.nlm.nih.gov/37516089/'
 citation: 'Tao Liyuan, Liao Jiaojiao, Zhang Xiaoyu, Zheng Rui, Shang Hongcai. Association of medicinal plant consumption with all-cause mortality and cognitive impairment in older adult: A large prospective cohort study. Phytomedicine.'
 ---
 
